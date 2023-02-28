@@ -1,3 +1,3 @@
 # static site
 
-![/images/back.jpg]
+![screenshot](./images/ss.png)
